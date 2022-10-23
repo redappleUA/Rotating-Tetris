@@ -1,0 +1,31 @@
+.bigLabel {
+}
+
+.button {
+    justify-content: center;
+    align-items: center;
+    -unity-font-style: bold;
+    font-size: 28px;
+    width: 85%;
+    height: 30%;
+    padding-bottom: 1%;
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 1%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-top-left-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-right-radius: 26px;
+    border-left-color: rgb(195, 136, 207);
+    border-right-color: rgb(195, 136, 207);
+    border-top-color: rgb(195, 136, 207);
+    border-bottom-color: rgb(195, 136, 207);
+    border-bottom-width: 9px;
+}
+
+.button {
+}
